@@ -1,0 +1,25 @@
+.metadata/
+RemoteSystemsTempFiles/
+*.log
+Debug/
+Release/
+.settings/
+EOF
+
+# ====================================================================
+# 🎯 ÖZEL OLARAK YOK SAYILAN TEST VE SÜRÜCÜ DOSYALARI
+# ====================================================================
+stm32f4xx_drivers\Src\001led_toggle.c
+stm32f4xx_drivers\Src\002led_buttonControl.c
+stm32f4xx_drivers\Src\003led_buttonControl_ext.c
+stm32f4xx_drivers\Src\004led_buttonControl_ext_interrupt.c
+stm32f4xx_drivers\Src\005_spi_helloWorld.c
+stm32f4xx_drivers\Src\006spi_arduino_txOnly.c
+stm32f4xx_drivers\Src\007spi_arduino_txRx.c
+stm32f4xx_drivers\Src\008spi_message_receive_it.c
+stm32f4xx_drivers\Src\009i2c_message_send.c
+stm32f4xx_drivers\Src\010i2c_message_send_receive.c
+stm32f4xx_drivers\Src\011i2c_message_send_receiveIT.c
+stm32f4xx_drivers\Src\012usart_arduino_send.c
+stm32f4xx_drivers\Src\013usart_case.c
+stm32f4xx_drivers\Src\iot_scoreboard.c
