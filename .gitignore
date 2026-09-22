@@ -23,3 +23,4 @@ stm32f4xx_drivers/Src/011i2c_message_send_receiveIT.c
 stm32f4xx_drivers/Src/012usart_arduino_send.c
 stm32f4xx_drivers/Src/013usart_case.c
 stm32f4xx_drivers/Src/iot_scoreboard.c
+stm32f4xx_drivers/README.md
