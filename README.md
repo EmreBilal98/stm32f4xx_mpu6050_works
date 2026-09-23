@@ -11,7 +11,7 @@ Gömülü yazılım mimarisindeki farklı yaklaşımları göstermek amacıyla, 
 
 ## 📸 Proje Demosu
 
-`![Proje Çalışma Videosu](pwm_led_blink.gif)`
+![Proje Çalışma Videosu](pwm_led_blink.gif)
 
 ## 🚀 Proje Mantığı ve Özellikler
 
@@ -36,8 +36,8 @@ Gömülü yazılım mimarisindeki farklı yaklaşımları göstermek amacıyla, 
 | **PD12** | - | Kart Üzerindeki LED 1 (Timer 4, CH1) |
 | **PD13** | - | Kart Üzerindeki LED 2 (Timer 4, CH2) |
 
-`![Bağlantı Şeması](wire_connection_mpu6050_stm32f407G_disc1.png)`
-*(Projenizin Fritzing şemasını, lojik analizör çıktılarını veya fiziksel kurulum fotoğrafını buraya ekleyebilirsiniz)*
+![Bağlantı Şeması](wire_connection_mpu6050_stm32f407G_disc1.png)
+
 
 ## 📁 Yazılım Mimarileri (Klasör Yapısı)
 
