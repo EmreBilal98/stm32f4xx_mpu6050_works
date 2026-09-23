@@ -53,3 +53,5 @@ STM32 Cube Framework program akışına dayanan standart ST yaklaşımıdır. Uy
 Sistemin Gerçek Zamanlı İşletim Sistemi kullanılarak görevlere (Tasks) bölündüğü versiyondur. Sensör okuma, Kalman filtresi hesaplamaları ve PWM güncelleme işlemleri bağımsız görevler olarak eşzamanlı (concurrent) bir yapıda, ana döngüyü (while loop) meşgul etmeden işletilir.
 
 ## ⚙️ Kurulum ve Çalıştırma
+
+"Releases" (Sürümler) sekmesinden ilgili projenin .elf  dosyasını indirip STM32CubeProgrammer aracılığıyla doğrudan kartınıza yükleyebilirsiniz.
