@@ -11,8 +11,7 @@ Gömülü yazılım mimarisindeki farklı yaklaşımları göstermek amacıyla, 
 
 ## 📸 Proje Demosu
 
-*(Sensörü eğerken LED'lerin tepkisini gösteren bir GIF veya videoyu buraya ekleyebilirsiniz)*
-`![Proje Çalışma Videosu](gorsel_linki_buraya_gelecek.gif)`
+`![Proje Çalışma Videosu](pwm_led_blink.gif)`
 
 ## 🚀 Proje Mantığı ve Özellikler
 
@@ -37,7 +36,7 @@ Gömülü yazılım mimarisindeki farklı yaklaşımları göstermek amacıyla, 
 | **PD12** | - | Kart Üzerindeki LED 1 (Timer 4, CH1) |
 | **PD13** | - | Kart Üzerindeki LED 2 (Timer 4, CH2) |
 
-`![Bağlantı Şeması](baglanti_semasi_gorsel_linki_buraya.png)`
+`![Bağlantı Şeması](wire_connection_mpu6050_stm32f407G_disc1.png)`
 *(Projenizin Fritzing şemasını, lojik analizör çıktılarını veya fiziksel kurulum fotoğrafını buraya ekleyebilirsiniz)*
 
 ## 📁 Yazılım Mimarileri (Klasör Yapısı)
